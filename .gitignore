@@ -1,0 +1,28 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+venv_*/
+*_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow / Keras models
+*.h5
+*.keras
+
+# Large datasets
+dataset/
+datasets/

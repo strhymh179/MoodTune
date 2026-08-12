@@ -1,0 +1,41 @@
+/* Import the new font: Montserrat (Modern, Clean, Highly Legible) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap'); /* Keep Orbitron for accents */
+
+/* FIX 1: Aggressively remove all margins and padding from the viewport roots */
+html, body, #root {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+    min-height: 100vh; /* Ensure it covers full viewport height */
+    overflow-x: hidden; /* Prevent horizontal scrollbar */
+    background-color: #121212 !important; /* Base dark color for safety */
+}
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+    
+    /* FIX: Image reference MUST be removed from CSS to compile */
+    background-image: none !important; 
+    
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #fff; 
+}
+
+/* Global scrollbar styling */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #FF00FF; /* Neon pink for scrollbar */
+    border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+    background: #121212; 
+}

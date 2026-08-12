@@ -1,0 +1,3239 @@
+{
+    "lol": {
+        "password_hash": "$pbkdf2-sha256$29000$3Rsj5HwvBcB4b43RmtMagw$NJUm4ZGGoRvlf1HtfyCpcD/SgY08EfTevAX8hXXGtHA",
+        "user_id": "bb3be758-c75a-4e89-bcfd-72195ef91af1",
+        "name": "lol",
+        "email": "lol@gmail.com",
+        "history": [
+            {
+                "date": "2025-11-26 17:02",
+                "emotion": "Happy",
+                "track_name": "Senorita"
+            },
+            {
+                "date": "2025-11-26 17:01",
+                "emotion": "Happy",
+                "track_name": "Not Alone"
+            },
+            {
+                "date": "2025-11-26 17:01",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 16:55",
+                "emotion": "Happy",
+                "track_name": "My Sunshine After Rain"
+            },
+            {
+                "date": "2025-11-26 16:50",
+                "emotion": "Neutral",
+                "track_name": "Take Me Where Your Heart Is"
+            },
+            {
+                "date": "2025-11-26 16:49",
+                "emotion": "Surprise",
+                "track_name": "There's Always Tomorrow"
+            },
+            {
+                "date": "2025-11-26 16:48",
+                "emotion": "Neutral",
+                "track_name": "What If I Told You That I Love You"
+            },
+            {
+                "date": "2025-11-26 16:43",
+                "emotion": "Neutral",
+                "track_name": "Psycho (feat. Ty Dolla $ign)"
+            },
+            {
+                "date": "2025-11-26 16:25",
+                "emotion": "Neutral",
+                "track_name": "Cmon"
+            },
+            {
+                "date": "2025-11-26 16:20",
+                "emotion": "Sad",
+                "track_name": "Kadhal Puriyathey Kadhali"
+            },
+            {
+                "date": "2025-11-26 16:07",
+                "emotion": "Happy",
+                "track_name": "Party In The U.S.A."
+            },
+            {
+                "date": "2025-11-26 16:03",
+                "emotion": "Fear",
+                "track_name": "Supalonely"
+            },
+            {
+                "date": "2025-11-26 16:02",
+                "emotion": "Fear",
+                "track_name": "Tap Tap Tap In (TikTok Dance)"
+            },
+            {
+                "date": "2025-11-26 15:54",
+                "emotion": "Sad",
+                "track_name": "Sollamaley"
+            },
+            {
+                "date": "2025-11-26 15:51",
+                "emotion": "Sad",
+                "track_name": "Shall I Compare Thee To A Summer's Day?"
+            },
+            {
+                "date": "2025-11-26 15:42",
+                "emotion": "Happy",
+                "track_name": "Belong Together"
+            },
+            {
+                "date": "2025-11-26 15:42",
+                "emotion": "Angry",
+                "track_name": "You Oughta Know"
+            },
+            {
+                "date": "2025-11-26 15:42",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 15:41",
+                "emotion": "Happy",
+                "track_name": "I Got You (I Feel Good)"
+            },
+            {
+                "date": "2025-11-26 15:41",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 15:40",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 15:39",
+                "emotion": "Fear",
+                "track_name": "I Believe"
+            },
+            {
+                "date": "2025-11-26 15:35",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 15:34",
+                "emotion": "Happy",
+                "track_name": "Unknown"
+            }
+        ]
+    },
+    "nish": {
+        "password_hash": "$pbkdf2-sha256$29000$glDKeU/Judd6T8kZIwSglA$aLEie4HhdStDvC9C9Vsr9JZ1mCZ43kWxO4Se1rUbq4E",
+        "user_id": "01f6a7d7-4737-47ba-b4a3-71f48b05523d",
+        "name": "danish harith",
+        "email": "danish@gmail.com",
+        "history": [
+            {
+                "date": "2025-12-08 17:26",
+                "emotion": "Sad",
+                "track_name": "Perfect",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 17:21",
+                "emotion": "Sad",
+                "track_name": "True Love",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 17:21",
+                "emotion": "Fear",
+                "track_name": "Let It Flow",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 16:45",
+                "emotion": "Fear",
+                "track_name": "Let It Go",
+                "track_artist": "James Bay",
+                "uri": "spotify:track:13HVjjWUZFaWilh2QUJKsP",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-08 16:44",
+                "emotion": "Fear",
+                "track_name": "Let It Go",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 16:34",
+                "emotion": "Sad",
+                "track_name": "True Love",
+                "action": "Analyzed"
+            }
+        ]
+    },
+    "test": {
+        "password_hash": "$pbkdf2-sha256$29000$YYwRYkyJkXLO.d87Z.xdqw$GwsgYficmbQKKzc4mZ/ES7Dv971NX3j0RqkmyxTx1uM",
+        "user_id": "d718fa2a-4107-415a-8773-3c138b84a267",
+        "name": "test",
+        "email": "test@gmail.com",
+        "history": [
+            {
+                "date": "2025-12-10 21:09",
+                "emotion": "Sad",
+                "track_name": "Kenangan Terindah",
+                "track_artist": "SAMSONS",
+                "uri": "spotify:track:5TtmfZaNSYEcTR49cureT0",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-10 21:06",
+                "emotion": "Sad",
+                "track_name": "Januari",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 21:06",
+                "emotion": "Sad",
+                "track_name": "Harus Terpisah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 21:06",
+                "emotion": "Sad",
+                "track_name": "Heartbreak",
+                "track_artist": "Martin Czerny",
+                "uri": "spotify:track:05Ni15WWdA7YYefmejMJMp",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-10 21:05",
+                "emotion": "Sad",
+                "track_name": "Lacrimosa",
+                "action": "Analyzed"
+            }
+        ]
+    },
+    "siti": {
+        "user_id": "f7ed5253-8256-454c-8180-9ec7866c4dee",
+        "password_hash": "$pbkdf2-sha256$29000$ZAyBkJLyvjcmZEwpZQxhrA$RXa6fTksFpiYHVnhLxLbdL.MKt887cr.fvSvnOT2oCo",
+        "name": "siti",
+        "email": "siti@gmail.com",
+        "history": [
+            {
+                "date": "2026-01-04 15:39",
+                "emotion": "Sad",
+                "track_name": "Hijau Bumi Tuhan",
+                "action": "Analyzed"
+            }
+        ]
+    },
+    "tryyy": {
+        "user_id": "cf264e7d-496a-4312-91a6-7446c037d9a0",
+        "password_hash": "$pbkdf2-sha256$29000$wJhTao2REiJk7D0nhHAupQ$m6xSA2BsFLoTkrJzN7qcI3eRKzjkpc.ZY2T8ugfAPBQ",
+        "name": "try",
+        "email": "try@gmail.com",
+        "history": []
+    },
+    "KIK": {
+        "user_id": "106a3a49-bd86-4e62-bd83-c3f50322a6a5",
+        "password_hash": "$pbkdf2-sha256$29000$UEqpFWJMSWlNiTEmJATgvA$ybDC7ckH0QoWEB/5wUfT1fgbEDKJfCWQBv5.rcRDgtE",
+        "name": "KIK",
+        "email": "KIK@gmail.com",
+        "history": []
+    },
+    "ema": {
+        "password_hash": "$pbkdf2-sha256$29000$M8YYg/Ces7ZWKmXMuZeSEg$eLHlqif4kYKnecyS.FlCyAJz4l8af0zfSP02JnjEcK0",
+        "user_id": "c425c5de-9b45-4548-bd97-447ab1aa509b",
+        "name": "ema",
+        "email": "ema@gmail.com",
+        "history": [
+            {
+                "date": "2026-04-09 14:10",
+                "emotion": "Sad",
+                "track_name": "Saling Merindu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-09 14:09",
+                "emotion": "Fear",
+                "track_name": "love sickness",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-07 09:58",
+                "emotion": "Fear",
+                "track_name": "charlie",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 14:19",
+                "emotion": "Fear",
+                "track_name": "a voice through water",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 14:18",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 12:43",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 09:55",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 09:16",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 09:05",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 09:04",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:49",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:42",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:29",
+                "emotion": "Neutral",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:17",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:16",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:15",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:15",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:14",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:13",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-04-06 08:13",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-03-31 12:01",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 12:13",
+                "emotion": "Surprise",
+                "track_name": "Roulette",
+                "uri": "spotify:track:73nBI4ekdBcVMxwHp0CqQx",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-02-12 12:12",
+                "emotion": "Surprise",
+                "track_name": "Roulette",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 12:12",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:32",
+                "emotion": "Surprise",
+                "track_name": "Better When You\u2019re Here",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:32",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:21",
+                "emotion": "Sad",
+                "track_name": "Among the Ash and Gold",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:21",
+                "emotion": "Sad",
+                "track_name": "Hentian Ini",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:20",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:20",
+                "emotion": "Surprise",
+                "track_name": "Push Back",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 11:17",
+                "emotion": "Fear",
+                "track_name": "Le morceau de Loulou - Version Strangelove",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 10:10",
+                "emotion": "Surprise",
+                "track_name": "Where Do I Begin",
+                "uri": "spotify:track:12p8Obk8nCRrdjQS9p88dt",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-02-12 10:10",
+                "emotion": "Surprise",
+                "track_name": "Where Do I Begin",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 10:10",
+                "emotion": "Fear",
+                "track_name": "Kokoro",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 10:08",
+                "emotion": "Happy",
+                "track_name": "Meraih Bintang",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:53",
+                "emotion": "Surprise",
+                "track_name": "Car Keys (Ayla)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:52",
+                "emotion": "Happy",
+                "track_name": "Aku Hanya Pelarian - DJ Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:52",
+                "emotion": "Surprise",
+                "track_name": "Those Days",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:20",
+                "emotion": "Happy",
+                "track_name": "Adambarai",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:17",
+                "emotion": "Neutral",
+                "track_name": "285 Hz Protector",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:17",
+                "emotion": "Neutral",
+                "track_name": "Ruminate",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:16",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:15",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:03",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:03",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:03",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:03",
+                "emotion": "Surprise",
+                "track_name": "Vamos com tudo - Radio Edit",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:02",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:02",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:02",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 09:01",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:50",
+                "emotion": "Sad",
+                "track_name": "Last Light Lingers",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:50",
+                "emotion": "Surprise",
+                "track_name": "Moth To A Flame (with The Weeknd)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:47",
+                "emotion": "Surprise",
+                "track_name": "Life On The Flip Side",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:46",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:46",
+                "emotion": "Sad",
+                "track_name": "Suratan Takdir",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:46",
+                "emotion": "Surprise",
+                "track_name": "Give It To Me - Full Vocal Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:45",
+                "emotion": "Angry",
+                "track_name": "Cum on Feel the Noize",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:45",
+                "emotion": "Angry",
+                "track_name": "AN INVITATION TO CHAOS",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:34",
+                "emotion": "Sad",
+                "track_name": "Permaisuri",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:18",
+                "emotion": "Sad",
+                "track_name": "Cinta Pantai Merdeka",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-12 08:18",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 22:45",
+                "emotion": "Sad",
+                "track_name": "Cinta Ini Membunuhku",
+                "uri": "spotify:track:7yQM0ab0yXsnVW1O8XWLYC",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-02-11 22:44",
+                "emotion": "Sad",
+                "track_name": "Cinta Ini Membunuhku",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:41",
+                "emotion": "Sad",
+                "track_name": "Lonely Soldier Boy (Akustik)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:36",
+                "emotion": "Fear",
+                "track_name": "beanie",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:20",
+                "emotion": "Surprise",
+                "track_name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:20",
+                "emotion": "Sad",
+                "track_name": "Cinta Bandar Tasik Selatan (Versi Original)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:20",
+                "emotion": "Sad",
+                "track_name": "Mimpi Yang Sempurna",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:20",
+                "emotion": "Sad",
+                "track_name": "Umpama Mimpi Dalam Mimpi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:20",
+                "emotion": "Sad",
+                "track_name": "Di Antara Gadis",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:19",
+                "emotion": "Fear",
+                "track_name": "echo sax end (slowed + reverb)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:19",
+                "emotion": "Surprise",
+                "track_name": "Where Are You Now - Deluxe Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:19",
+                "emotion": "Sad",
+                "track_name": "Rahsia Pohon Cemara",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:19",
+                "emotion": "Sad",
+                "track_name": "Putus",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:14",
+                "emotion": "Disgust",
+                "track_name": "Sloven Voe",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:13",
+                "emotion": "Sad",
+                "track_name": "Izinkan Selamanya Namamu Dihati",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:13",
+                "emotion": "Sad",
+                "track_name": "Bintang (Original Version)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:12",
+                "emotion": "Surprise",
+                "track_name": "El jazz del telefono",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:11",
+                "emotion": "Fear",
+                "track_name": "Le morceau de Loulou - Version Strangelove",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:11",
+                "emotion": "Sad",
+                "track_name": "Kau Yang Tak Mengerti",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:10",
+                "emotion": "Surprise",
+                "track_name": "Where Do I Begin",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:10",
+                "emotion": "Fear",
+                "track_name": "moon gazing",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:10",
+                "emotion": "Angry",
+                "track_name": "Engkau Tetap Satu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:09",
+                "emotion": "Fear",
+                "track_name": "Eyes",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:09",
+                "emotion": "Sad",
+                "track_name": "Ready for Love - 2015 Remaster",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:08",
+                "emotion": "Fear",
+                "track_name": "a promise shaped like wind",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:08",
+                "emotion": "Angry",
+                "track_name": "Senja Nan Merah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:08",
+                "emotion": "Angry",
+                "track_name": "Creep",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:07",
+                "emotion": "Fear",
+                "track_name": "blue",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:07",
+                "emotion": "Happy",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:07",
+                "emotion": "Disgust",
+                "track_name": "Dugaannya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:06",
+                "emotion": "Angry",
+                "track_name": "Rendang Tak Berbuah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:06",
+                "emotion": "Neutral",
+                "track_name": "20:17",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:06",
+                "emotion": "Surprise",
+                "track_name": "I Took A Pill In Ibiza - Seeb Remix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:06",
+                "emotion": "Surprise",
+                "track_name": "Pepas - David Guetta Remix - Radio Edit",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:05",
+                "emotion": "Surprise",
+                "track_name": "Feeling Pretty",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:04",
+                "emotion": "Surprise",
+                "track_name": "Espresso Yourself - Radio Edit",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:04",
+                "emotion": "Surprise",
+                "track_name": "Cynical",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:03",
+                "emotion": "Fear",
+                "track_name": "yosemite (slowed + reverb)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:02",
+                "emotion": "Fear",
+                "track_name": "murmurs",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:02",
+                "emotion": "Surprise",
+                "track_name": "Shivers - Alok Remix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:02",
+                "emotion": "Surprise",
+                "track_name": "Those Days",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:01",
+                "emotion": "Sad",
+                "track_name": "Getaran Jiwa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:01",
+                "emotion": "Surprise",
+                "track_name": "Be Ur Baby",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:00",
+                "emotion": "Surprise",
+                "track_name": "Move Your Body",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:00",
+                "emotion": "Surprise",
+                "track_name": "Give It To Me - Full Vocal Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 20:00",
+                "emotion": "Surprise",
+                "track_name": "Satisfaction",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 19:58",
+                "emotion": "Sad",
+                "track_name": "Cinta Ini Membunuhku",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 19:57",
+                "emotion": "Sad",
+                "track_name": "Lamunan Terhenti",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 19:57",
+                "emotion": "Sad",
+                "track_name": "Roman Picisan",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 17:05",
+                "emotion": "Happy",
+                "track_name": "sos",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 17:02",
+                "emotion": "Happy",
+                "track_name": "You Are Perfect",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:58",
+                "emotion": "Happy",
+                "track_name": "Krazy (feat. Lil Jon)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:55",
+                "emotion": "Fear",
+                "track_name": "i remember",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:46",
+                "emotion": "Happy",
+                "track_name": "Prada",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:34",
+                "emotion": "Angry",
+                "track_name": "Buried Alive",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:33",
+                "emotion": "Fear",
+                "track_name": "schindler's list",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:33",
+                "emotion": "Angry",
+                "track_name": "Who We Want To Be",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:31",
+                "emotion": "Happy",
+                "track_name": "\u672a\u5c3d\u7684\u7231 \u00b7 Unfinished Love",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:31",
+                "emotion": "Happy",
+                "track_name": "Mas Que Nada",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:30",
+                "emotion": "Surprise",
+                "track_name": "Open That Door",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:29",
+                "emotion": "Neutral",
+                "track_name": "Bride of Deluxe",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:29",
+                "emotion": "Sad",
+                "track_name": "Demi Kita Akustik",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:28",
+                "emotion": "Fear",
+                "track_name": "oceanview",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:28",
+                "emotion": "Surprise",
+                "track_name": "Where Are You Now - Deluxe Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:08",
+                "emotion": "Fear",
+                "track_name": "Rid",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:07",
+                "emotion": "Fear",
+                "track_name": "je te laisserai des mots (slowed + reverb)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:06",
+                "emotion": "Surprise",
+                "track_name": "DREAMING",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:06",
+                "emotion": "Sad",
+                "track_name": "Bourgenvilla",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:06",
+                "emotion": "Sad",
+                "track_name": "Waktu Yang Salah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-11 16:05",
+                "emotion": "Neutral",
+                "track_name": "At First Light",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-02-10 21:59",
+                "emotion": "Sad",
+                "track_name": "Cinta Antara Kita (Duet with Baizura Kahar)",
+                "uri": "spotify:track:0GT1BdQXjnEgs9MiquR5Rz",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-02-10 21:58",
+                "emotion": "Sad",
+                "track_name": "Dan Sebenarnya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 23:36",
+                "emotion": "Sad",
+                "track_name": "Losing My Religion",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 23:36",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 23:35",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 23:35",
+                "emotion": "Fear",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 23:35",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-14 22:31",
+                "emotion": "Neutral",
+                "track_name": "The Legend of Zelda Main Theme",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-12 22:25",
+                "emotion": "Sad",
+                "track_name": "Rinduku Tiada Berteman",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 14:00",
+                "emotion": "Neutral",
+                "track_name": "Fix You",
+                "uri": "spotify:track:0NSDgYnPrWvAujNKYl940M",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-06 14:00",
+                "emotion": "Neutral",
+                "track_name": "Counting Backwards",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 11:55",
+                "emotion": "Sad",
+                "track_name": "Meraung",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 11:52",
+                "emotion": "Happy",
+                "track_name": "IN YOUR EYES",
+                "uri": "spotify:track:1wjDFBUOMuZKm1eJ8GzRBX",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-06 11:52",
+                "emotion": "Happy",
+                "track_name": "IN YOUR EYES",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:31",
+                "emotion": "Neutral",
+                "track_name": "The Legend of Zelda Main Theme",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:31",
+                "emotion": "Sad",
+                "track_name": "Sudah Takdir Begitu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:31",
+                "emotion": "Neutral",
+                "track_name": "Alibi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:31",
+                "emotion": "Sad",
+                "track_name": "Hakikat",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:30",
+                "emotion": "Happy",
+                "track_name": "Walking On A Dream",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 01:00",
+                "emotion": "Happy",
+                "track_name": "Belly Dancer",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 00:52",
+                "emotion": "Happy",
+                "track_name": "No Diggity",
+                "uri": "spotify:track:32PKQDEaouIIOlNZ5umoR6",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-06 00:51",
+                "emotion": "Happy",
+                "track_name": "Cocody Rock",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 00:51",
+                "emotion": "Happy",
+                "track_name": "The System",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 00:50",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-06 00:50",
+                "emotion": "Sad",
+                "track_name": "Bila Diri Disayangi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-05 22:35",
+                "emotion": "Sad",
+                "track_name": "Memburu Rindu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-05 00:01",
+                "emotion": "Happy",
+                "track_name": "I'm On Fire",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 15:32",
+                "emotion": "Sad",
+                "track_name": "She Took the Light with Her",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 14:50",
+                "emotion": "Sad",
+                "track_name": "Di Akhir Perang",
+                "uri": "spotify:track:1tqPw8Hf88h24Bpt2SzuYE",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-04 14:48",
+                "emotion": "Sad",
+                "track_name": "Di Akhir Perang",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 14:41",
+                "emotion": "Sad",
+                "track_name": "Sambutlah Kasih",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:57",
+                "emotion": "Sad",
+                "track_name": "Everything and Nothing",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:39",
+                "emotion": "Angry",
+                "track_name": "Back for More",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:39",
+                "emotion": "Angry",
+                "track_name": "Misteri Mimpi Syakilla",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:35",
+                "emotion": "Angry",
+                "track_name": "I Apologize",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:32",
+                "emotion": "Angry",
+                "track_name": "Rumie Dan Julie",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:26",
+                "emotion": "Angry",
+                "track_name": "The Emptiness Machine",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:23",
+                "emotion": "Angry",
+                "track_name": "Lithium",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:20",
+                "emotion": "Angry",
+                "track_name": "Takdir Dan Waktu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:19",
+                "emotion": "Angry",
+                "track_name": "How You Remind Me",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-04 02:19",
+                "emotion": "Angry",
+                "track_name": "Lithium",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 22:14",
+                "emotion": "Sad",
+                "track_name": "Tercipta Untukku - Acoustic Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:58",
+                "emotion": "Sad",
+                "track_name": "Izinkan Selamanya Namamu Dihati",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:56",
+                "emotion": "Sad",
+                "track_name": "Kau Yang Bernama Seri",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:51",
+                "emotion": "Neutral",
+                "track_name": "Cadere",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:49",
+                "emotion": "Neutral",
+                "track_name": "528 Hz Asleep in the Clouds",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:42",
+                "emotion": "Sad",
+                "track_name": "Titian Perjalanan",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:39",
+                "emotion": "Sad",
+                "track_name": "Sejujur Mana Kata-Kata",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:36",
+                "emotion": "Sad",
+                "track_name": "Pahit Akan Manis Akhirnya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:30",
+                "emotion": "Angry",
+                "track_name": "Hampa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:21",
+                "emotion": "Sad",
+                "track_name": "Ternyata Cinta",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:18",
+                "emotion": "Sad",
+                "track_name": "Aku Masih Disini",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:17",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:15",
+                "emotion": "Sad",
+                "track_name": "Kau Pergi Jua",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 21:02",
+                "emotion": "Sad",
+                "track_name": "Kenangan Semalam (Versi Original)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:58",
+                "emotion": "Sad",
+                "track_name": "Asal Kau Bahagia - Piano Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:56",
+                "emotion": "Sad",
+                "track_name": "Cobalah Mengerti",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:14",
+                "emotion": "Sad",
+                "track_name": "Bila Cinta Di Dusta",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:13",
+                "emotion": "Disgust",
+                "track_name": "Bruja",
+                "uri": "spotify:track:4DbRtnuP6eyQSGXbquLRv0",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-03 20:02",
+                "emotion": "Disgust",
+                "track_name": "Bruja",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:02",
+                "emotion": "Sad",
+                "track_name": "Siboh Kitak Nangis",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:01",
+                "emotion": "Neutral",
+                "track_name": "Careless Whisper",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:01",
+                "emotion": "Sad",
+                "track_name": "Kain Cinta Putih",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 20:00",
+                "emotion": "Sad",
+                "track_name": "November Rain",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:59",
+                "emotion": "Sad",
+                "track_name": "Cinta Kristal",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:59",
+                "emotion": "Sad",
+                "track_name": "Cinta Dan Benci",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:57",
+                "emotion": "Surprise",
+                "track_name": "Crying On The Dancefloor",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:55",
+                "emotion": "Disgust",
+                "track_name": "It\u2019s All In Your Mind",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:54",
+                "emotion": "Sad",
+                "track_name": "Demi Waktu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:54",
+                "emotion": "Sad",
+                "track_name": "Dirt Floor Boogie",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:52",
+                "emotion": "Disgust",
+                "track_name": "Lofticries",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:52",
+                "emotion": "Sad",
+                "track_name": "Kantoi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:52",
+                "emotion": "Sad",
+                "track_name": "Still Got The Blues",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:49",
+                "emotion": "Sad",
+                "track_name": "Pulang - Piano Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:44",
+                "emotion": "Sad",
+                "track_name": "Saling Merindu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:43",
+                "emotion": "Sad",
+                "track_name": "Bila Diri Disayangi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:36",
+                "emotion": "Sad",
+                "track_name": "Two Lonely Souls",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:20",
+                "emotion": "Sad",
+                "track_name": "Ingatkan Dia",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:19",
+                "emotion": "Sad",
+                "track_name": "Alone",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 19:16",
+                "emotion": "Sad",
+                "track_name": "Tanpa Diriku",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:39",
+                "emotion": "Neutral",
+                "track_name": "Little Angel Rain Sounds",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:36",
+                "emotion": "Fear",
+                "track_name": "ephemeral",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:35",
+                "emotion": "Sad",
+                "track_name": "Ku Tak Bisa",
+                "uri": "spotify:track:1kX8CQhFu33ECzG9sCHCw3",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-03 18:34",
+                "emotion": "Sad",
+                "track_name": "Ku Tak Bisa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:29",
+                "emotion": "Sad",
+                "track_name": "Can't You Hear Me Knocking - Remastered",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:28",
+                "emotion": "Sad",
+                "track_name": "Menghapus Jejakmu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:26",
+                "emotion": "Sad",
+                "track_name": "Pulang - Piano Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:22",
+                "emotion": "Sad",
+                "track_name": "If I Had Money",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:06",
+                "emotion": "Sad",
+                "track_name": "Risalah Hati",
+                "uri": "spotify:track:5symUhsVy8lQpT4ME5quJa",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-03 18:05",
+                "emotion": "Sad",
+                "track_name": "Demi Kita Akustik",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 18:05",
+                "emotion": "Angry",
+                "track_name": "Terimalah Sayang Cintaku Seadanya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:49",
+                "emotion": "Sad",
+                "track_name": "Whiskey Glow",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:45",
+                "emotion": "Sad",
+                "track_name": "Bourbon Street Serenade",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:44",
+                "emotion": "Neutral",
+                "track_name": "174 Hz Release",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:44",
+                "emotion": "Sad",
+                "track_name": "Dan Sebenarnya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:44",
+                "emotion": "Neutral",
+                "track_name": "Naivete",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:44",
+                "emotion": "Sad",
+                "track_name": "Tentang Dia (Piano Version)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:43",
+                "emotion": "Angry",
+                "track_name": "Pusara Di Lebuhraya",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:43",
+                "emotion": "Fear",
+                "track_name": "Theme of Haruka",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:42",
+                "emotion": "Fear",
+                "track_name": "Ending",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:42",
+                "emotion": "Fear",
+                "track_name": "blossom",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:42",
+                "emotion": "Fear",
+                "track_name": "mice on venus but make it *E X T R A* nostalgic",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:42",
+                "emotion": "Sad",
+                "track_name": "You Know I'm No Good",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:42",
+                "emotion": "Angry",
+                "track_name": "Siapa Di Hatimu",
+                "uri": "spotify:track:2NOWGQefu42AyhxIavqCZJ",
+                "action": "Saved"
+            },
+            {
+                "date": "2026-01-03 17:41",
+                "emotion": "Angry",
+                "track_name": "Siapa Di Hatimu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:41",
+                "emotion": "Fear",
+                "track_name": "Hypomania",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:41",
+                "emotion": "Sad",
+                "track_name": "Pergi - Talentime OST",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:41",
+                "emotion": "Fear",
+                "track_name": "runaway",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:41",
+                "emotion": "Sad",
+                "track_name": "Ruang Mimpi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:40",
+                "emotion": "Fear",
+                "track_name": "ephemeral",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:40",
+                "emotion": "Sad",
+                "track_name": "All Your Love (I Miss Loving)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:40",
+                "emotion": "Sad",
+                "track_name": "Can't Trust This",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:40",
+                "emotion": "Sad",
+                "track_name": "All That's Left Is Smoke",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:40",
+                "emotion": "Surprise",
+                "track_name": "On The Floor",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:39",
+                "emotion": "Surprise",
+                "track_name": "Closer",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:39",
+                "emotion": "Fear",
+                "track_name": "think f r e e nights",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:38",
+                "emotion": "Surprise",
+                "track_name": "Higher",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:38",
+                "emotion": "Disgust",
+                "track_name": "Riquiqu\u00ed",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:37",
+                "emotion": "Happy",
+                "track_name": "I'm On Fire",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:37",
+                "emotion": "Sad",
+                "track_name": "Better Times Are Comin'",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:37",
+                "emotion": "Happy",
+                "track_name": "Absolute Dream - Radio Edit",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:36",
+                "emotion": "Sad",
+                "track_name": "Elegi Esok Pagi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:36",
+                "emotion": "Sad",
+                "track_name": "Lord Send Revival",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2026-01-03 17:36",
+                "emotion": "Sad",
+                "track_name": "Ombak Rindu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:05",
+                "emotion": "Sad",
+                "track_name": "Pergilah Kasih",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:05",
+                "emotion": "Surprise",
+                "track_name": "Overdrive (feat. Norma Jean Martine)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:05",
+                "emotion": "Sad",
+                "track_name": "Cinta Pantai Merdeka",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:05",
+                "emotion": "Neutral",
+                "track_name": "Daydream",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:04",
+                "emotion": "Sad",
+                "track_name": "Umpama Mimpi Dalam Mimpi",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:04",
+                "emotion": "Sad",
+                "track_name": "Disana Mawar Disini Penawar",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:01",
+                "emotion": "Sad",
+                "track_name": "Losing My Religion",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:00",
+                "emotion": "Surprise",
+                "track_name": "Never Say Goodbye",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 22:00",
+                "emotion": "Sad",
+                "track_name": "Mungkin Nanti",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:56",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:56",
+                "emotion": "Sad",
+                "track_name": "Kau Yang Bernama Seri",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:56",
+                "emotion": "Sad",
+                "track_name": "Luka Seribu Rindu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:55",
+                "emotion": "Sad",
+                "track_name": "Masih Terserlah Ayumu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:52",
+                "emotion": "Angry",
+                "track_name": "Di Pintu Mahligai",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:51",
+                "emotion": "Sad",
+                "track_name": "Mengintai Dari Tirai Kamar (Buih Jadi Permadani)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Neutral",
+                "track_name": "Gilo Soghe",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Sad",
+                "track_name": "Risalah Hati",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Sad",
+                "track_name": "Seksa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:50",
+                "emotion": "Happy",
+                "track_name": "Paradise",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:49",
+                "emotion": "Sad",
+                "track_name": "Segalanya Ku Terima",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 21:49",
+                "emotion": "Sad",
+                "track_name": "Waiting for a Girl like You",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:42",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:41",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:41",
+                "emotion": "Neutral",
+                "track_name": "Wistful",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:41",
+                "emotion": "Sad",
+                "track_name": "My Babe",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:41",
+                "emotion": "Neutral",
+                "track_name": "Unsettled",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Neutral",
+                "track_name": "Scenic",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Neutral",
+                "track_name": "The Garden",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:40",
+                "emotion": "Neutral",
+                "track_name": "So Good",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-26 16:39",
+                "emotion": "Neutral",
+                "track_name": "Dunes",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 15:25",
+                "emotion": "Angry",
+                "track_name": "Bunga Angkasa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 15:24",
+                "emotion": "Happy",
+                "track_name": "Starlight December",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 15:24",
+                "emotion": "Neutral",
+                "track_name": "No More Tension",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 15:23",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 15:23",
+                "emotion": "Neutral",
+                "track_name": "Saving All My Love For You",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Neutral",
+                "track_name": "Waktu Yang Salah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Surprise",
+                "track_name": "The Runner",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Surprise",
+                "track_name": "Bloodtype",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Surprise",
+                "track_name": "Is This Love",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Angry",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:48",
+                "emotion": "Neutral",
+                "track_name": "Blessing",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:47",
+                "emotion": "Sad",
+                "track_name": "The Hard Way",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:47",
+                "emotion": "Surprise",
+                "track_name": "Drown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 14:46",
+                "emotion": "Sad",
+                "track_name": "Cinta Setandan Pisang",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:08",
+                "emotion": "Sad",
+                "track_name": "I Don't Wanna Wait",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:08",
+                "emotion": "Sad",
+                "track_name": "Risalah Hati",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:06",
+                "emotion": "Neutral",
+                "track_name": "Cinta Luar Biasa - Acoustic Version",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:06",
+                "emotion": "Sad",
+                "track_name": "I Don't Wanna Wait",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:06",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:04",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:04",
+                "emotion": "Surprise",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 11:04",
+                "emotion": "Neutral",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Neutral",
+                "track_name": "goosebumps",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Sad",
+                "track_name": "Distortion",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:58",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:57",
+                "emotion": "Sad",
+                "track_name": "Discovery",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:57",
+                "emotion": "Surprise",
+                "track_name": "\u015eark\u0131lar Sokaklara Ait",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:53",
+                "emotion": "Sad",
+                "track_name": "Sedang Apa Dan Dimana",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:53",
+                "emotion": "Neutral",
+                "track_name": "Spotify Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:53",
+                "emotion": "Fear",
+                "track_name": "Jocelyn Flores",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "Garden of Forgotten Days",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Surprise",
+                "track_name": "Moon Theme",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "BILA NANTI",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "Sedang Apa Dan Dimana",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "Spotify Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:52",
+                "emotion": "Sad",
+                "track_name": "Unakaageh Kathirunthen",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Sad",
+                "track_name": "Asal Kau Bahagia",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Surprise",
+                "track_name": "Spotify Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Neutral",
+                "track_name": "Teenage Fever",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Neutral",
+                "track_name": "Spotify Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Sad",
+                "track_name": "Born To Die",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Angry",
+                "track_name": "Spotify Mix",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:51",
+                "emotion": "Fear",
+                "track_name": "\ud83c\udf3b [396 Hz] Release Fear & Stress | 8 Hours of 396 Hz Healing Music to Promote Positive Mood | With Relaxing White Noise \ud83d\udca4",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 10:50",
+                "emotion": "Neutral",
+                "track_name": "Blue on Black",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:11",
+                "emotion": "Happy",
+                "track_name": "Told You So",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:10",
+                "emotion": "Sad",
+                "track_name": "The Night We Met",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:10",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:10",
+                "emotion": "Sad",
+                "track_name": "perpetual",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:10",
+                "emotion": "Sad",
+                "track_name": "Fall Back",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-24 07:10",
+                "emotion": "Sad",
+                "track_name": "Love In The Dark",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 16:21",
+                "emotion": "Sad",
+                "track_name": "Your Eyes",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:34",
+                "emotion": "Sad",
+                "track_name": "Me Gustas Tu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:33",
+                "emotion": "Disgust",
+                "track_name": "I\u2019m Not That Girl",
+                "track_artist": "Cynthia Erivo",
+                "uri": "spotify:track:2tWioTW2rs0CXf1dTXlRrX",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-21 15:33",
+                "emotion": "Disgust",
+                "track_name": "Mareez - E - Ishq",
+                "track_artist": "Shaarib Toshi",
+                "uri": "spotify:track:2HqSND303T7sT0wOPj3K3C",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-21 15:32",
+                "emotion": "Disgust",
+                "track_name": "Mareez - E - Ishq",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:32",
+                "emotion": "Neutral",
+                "track_name": "Comforting Memories",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:32",
+                "emotion": "Angry",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:31",
+                "emotion": "Angry",
+                "track_name": "Awake",
+                "track_artist": "Godsmack",
+                "uri": "spotify:track:6xXlurslWqFuyqTCBlErzX",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-21 15:31",
+                "emotion": "Angry",
+                "track_name": "Awake",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:31",
+                "emotion": "Neutral",
+                "track_name": "Radio",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Sad",
+                "track_name": "Clarity (feat. Bino Rideaux & Dave East)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Neutral",
+                "track_name": "Where Evil Grows",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Neutral",
+                "track_name": "Bed Rest",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Surprise",
+                "track_name": "Energy",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Neutral",
+                "track_name": "The Cure",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:30",
+                "emotion": "Neutral",
+                "track_name": "Don't Start Now",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:29",
+                "emotion": "Neutral",
+                "track_name": "Kr\u00f3k\u00f3d\u00edll",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-21 15:29",
+                "emotion": "Happy",
+                "track_name": "Gone Gone Gone",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:29",
+                "emotion": "Happy",
+                "track_name": "Paku",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:29",
+                "emotion": "Happy",
+                "track_name": "Kenapa?",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:29",
+                "emotion": "Sad",
+                "track_name": "Dimana Hatimu",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Sad",
+                "track_name": "One Last Emotion",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Neutral",
+                "track_name": "Mice On Venus",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Fear",
+                "track_name": "Moon Theme",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Neutral",
+                "track_name": "Gets Me Through",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Fear",
+                "track_name": "Duel of the Fates",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Sad",
+                "track_name": "Berhenti Berharap",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-20 02:28",
+                "emotion": "Surprise",
+                "track_name": "Choosing Shoes",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:48",
+                "emotion": "Sad",
+                "track_name": "Requiem, Op. 54: Agnus dei",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:48",
+                "emotion": "Surprise",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:48",
+                "emotion": "Sad",
+                "track_name": "the feeling of isolation",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:48",
+                "emotion": "Sad",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:48",
+                "emotion": "Sad",
+                "track_name": "Tissues",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:47",
+                "emotion": "Sad",
+                "track_name": "Dreams",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:47",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:45",
+                "emotion": "Surprise",
+                "track_name": "Hold Me",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-18 23:45",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-16 14:02",
+                "emotion": "Sad",
+                "track_name": "Theme From Schindler's List",
+                "track_artist": "John Williams",
+                "uri": "spotify:track:3DzMT13HJV7EsbVbNZZJZQ",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-16 14:02",
+                "emotion": "Sad",
+                "track_name": "Theme From Schindler's List",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-11 18:28",
+                "emotion": "Sad",
+                "track_name": "\u0130yi Uykular Peder",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 19:17",
+                "emotion": "Surprise",
+                "track_name": "Roadhouse Blues",
+                "track_artist": "The Doors",
+                "uri": "spotify:track:0VBHEisTX3xe1GLQb5Gy1W",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-10 19:17",
+                "emotion": "Surprise",
+                "track_name": "Roadhouse Blues",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 19:16",
+                "emotion": "Neutral",
+                "track_name": "Airplane Mode",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 19:16",
+                "emotion": "Sad",
+                "track_name": "Forget Me",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-10 19:16",
+                "emotion": "Sad",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 17:19",
+                "emotion": "Fear",
+                "track_name": "Shy",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 17:10",
+                "emotion": "Sad",
+                "track_name": "Arcade",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 16:56",
+                "emotion": "Sad",
+                "track_name": "See You Again (feat. Charlie Puth)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 16:56",
+                "emotion": "Sad",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-08 16:53",
+                "emotion": "Fear",
+                "track_name": "Steal My Girl",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:12",
+                "emotion": "Neutral",
+                "track_name": "The Morning",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:11",
+                "emotion": "Neutral",
+                "track_name": "Rainy Day",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:08",
+                "emotion": "Neutral",
+                "track_name": "In the Stars (feat. Kiiara)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:07",
+                "emotion": "Sad",
+                "track_name": "Love Is Gone",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:07",
+                "emotion": "Sad",
+                "track_name": "u need to let them go",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:07",
+                "emotion": "Sad",
+                "track_name": "All Girls Are The Same",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:07",
+                "emotion": "Happy",
+                "track_name": "Sexy Smile",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Sad",
+                "track_name": "drivers license",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Sad",
+                "track_name": "Beethoven's Silence",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Surprise",
+                "track_name": "All Right Now",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Surprise",
+                "track_name": "Scar Tissue",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:06",
+                "emotion": "Surprise",
+                "track_name": "WARNING",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:05",
+                "emotion": "Surprise",
+                "track_name": "Butterfly",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:05",
+                "emotion": "Surprise",
+                "track_name": "Wrapped Up (feat. Travie McCoy)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:05",
+                "emotion": "Surprise",
+                "track_name": "Snowflakes",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:05",
+                "emotion": "Sad",
+                "track_name": "Requiem in D Minor, K 626: III. Sequenz. Lacrimosa",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:04",
+                "emotion": "Neutral",
+                "track_name": "\u304a\u5f01\u5f53",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:04",
+                "emotion": "Neutral",
+                "track_name": "Sea of Trees",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-05 01:04",
+                "emotion": "Neutral",
+                "track_name": "Late Night Call",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 21:32",
+                "emotion": "Sad",
+                "track_name": "Morning Mist",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 21:31",
+                "emotion": "Neutral",
+                "track_name": "\u306e\u3093\u304d\u306a\u6ce2\u97f3",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 20:43",
+                "emotion": "Neutral",
+                "track_name": "The Morning",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 20:42",
+                "emotion": "Surprise",
+                "track_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+                "track_artist": "Felix Jaehn",
+                "uri": "spotify:track:3c8iiZGfEammKJuWTErE5x",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-04 20:42",
+                "emotion": "Surprise",
+                "track_name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 20:42",
+                "emotion": "Neutral",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 18:25",
+                "emotion": "Sad",
+                "track_name": "Get You The Moon (feat. Sn\u00f8w)",
+                "track_artist": "Kina",
+                "uri": "spotify:track:4ZLzoOkj0MPWrTLvooIuaa",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-04 18:24",
+                "emotion": "Sad",
+                "track_name": "Heat Waves",
+                "track_artist": "Glass Animals",
+                "uri": "spotify:track:02MWAaffLxlfxAUY7c5dvx",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-04 18:23",
+                "emotion": "Sad",
+                "track_name": "Song for Bob",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-04 17:10",
+                "emotion": "Sad",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 10:06",
+                "emotion": "Happy",
+                "track_name": "",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 01:26",
+                "emotion": "Happy",
+                "track_name": "Young, Wild & Free (feat. Bruno Mars)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:38",
+                "emotion": "Neutral",
+                "track_name": "String of light",
+                "track_artist": "Hideki Taniuchi",
+                "uri": "spotify:track:4SyxsjoyOyHtFmHBwMhrwp",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-02 00:38",
+                "emotion": "Neutral",
+                "track_name": "String of light",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:38",
+                "emotion": "Happy",
+                "track_name": "Cemburu",
+                "track_artist": "Nabila Razali",
+                "uri": "spotify:track:0R6UHXEKXw2a8oRRBvdRW0",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-02 00:37",
+                "emotion": "Happy",
+                "track_name": "Side Effects",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:37",
+                "emotion": "Neutral",
+                "track_name": "Just A Lil Bit",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:36",
+                "emotion": "Neutral",
+                "track_name": "Check",
+                "track_artist": "U.S.D.A.",
+                "uri": "spotify:track:79VZ92sy2tdHYWAAlTM6WP",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-02 00:36",
+                "emotion": "Neutral",
+                "track_name": "Check",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:36",
+                "emotion": "Fear",
+                "track_name": "Slide Away",
+                "track_artist": "Miley Cyrus",
+                "uri": "spotify:track:44ADyYoY5liaRa3EOAl4uf",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-02 00:36",
+                "emotion": "Fear",
+                "track_name": "Slide Away",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:29",
+                "emotion": "Favorite",
+                "track_name": "Beauty And A Beat",
+                "track_artist": "Justin Bieber",
+                "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-02 00:29",
+                "emotion": "Happy",
+                "track_name": "Beauty And A Beat",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:29",
+                "emotion": "Neutral",
+                "track_name": "Pain",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-02 00:28",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:36",
+                "emotion": "Neutral",
+                "track_name": "Requiem For A Tower",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:25",
+                "emotion": "Sad",
+                "track_name": "Self Reflection",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:22",
+                "emotion": "Neutral",
+                "track_name": "Teenage Fever",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:19",
+                "emotion": "Fear",
+                "track_name": "Time",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:12",
+                "emotion": "Happy",
+                "track_name": "When Jack in a bottle talks",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:11",
+                "emotion": "Happy",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:11",
+                "emotion": "Favorite",
+                "track_name": "Forget Me",
+                "track_artist": "Lewis Capaldi",
+                "uri": "spotify:track:5uSFGgIfHMT3osrAd9n9ym",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-01 23:10",
+                "emotion": "Sad",
+                "track_name": "I Wish",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 23:02",
+                "emotion": "Happy",
+                "track_name": "Now Or Never",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:55",
+                "emotion": "Favorite",
+                "track_name": "Dynamite",
+                "track_artist": "BTS",
+                "uri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-01 22:55",
+                "emotion": "Happy",
+                "track_name": "Forever Young",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:54",
+                "emotion": "Favorite",
+                "track_name": "Quiet",
+                "track_artist": "This Will Destroy You",
+                "uri": "spotify:track:4llDF3RuBQYj2nkjTCJY4w",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-12-01 22:54",
+                "emotion": "Neutral",
+                "track_name": "Quiet",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:39",
+                "emotion": "Neutral",
+                "track_name": "Death Is the Road to Awe (feat. Kronos Quartet)",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:38",
+                "emotion": "Happy",
+                "track_name": "Follow You",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:34",
+                "emotion": "Fear",
+                "track_name": "Go Back Whence You Came",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:34",
+                "emotion": "Neutral",
+                "track_name": "\u7dca\u5f35\u3059\u308b\u306e\u3093",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:34",
+                "emotion": "Neutral",
+                "track_name": "Kau Ilhamku",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:33",
+                "emotion": "Neutral",
+                "track_name": "Kasih Tak Sampai",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:33",
+                "emotion": "Neutral",
+                "track_name": "Lifetime",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:32",
+                "emotion": "Angry",
+                "track_name": "Carry On",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:30",
+                "emotion": "Happy",
+                "track_name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:15",
+                "emotion": "Happy",
+                "track_name": "Satu Hari Nanti",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:15",
+                "emotion": "Sad",
+                "track_name": "Chandralekha",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 22:00",
+                "emotion": "Happy",
+                "track_name": "150 Juta",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-12-01 21:58",
+                "emotion": "Fear",
+                "track_name": "Outer Access",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-27 12:09",
+                "emotion": "Neutral",
+                "track_name": "Back To Me",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-27 12:07",
+                "emotion": "Neutral",
+                "track_name": "Wag Mong Aminin",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-27 12:07",
+                "emotion": "Favorite",
+                "track_name": "Taras - From \"Munjya\"",
+                "track_artist": "Sachin-Jigar",
+                "uri": "spotify:track:6t9KM2EQD4H2KbrTgHGYf3",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-11-27 12:06",
+                "emotion": "Neutral",
+                "track_name": "Taras - From \"Munjya\"",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-26 17:41",
+                "emotion": "Favorite",
+                "track_name": "Palm Springs Heat",
+                "track_artist": "PAPA-T",
+                "uri": "spotify:track:40DSziXaKfOY7RVfnw0Snz",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-11-26 17:41",
+                "emotion": "Happy",
+                "track_name": "Subah Subah",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-26 17:40",
+                "emotion": "Favorite",
+                "track_name": "A Sunday Kind Of Love",
+                "track_artist": "Etta James",
+                "uri": "spotify:track:0zGLlXbHlrAyBN1x6sY0rb",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-11-26 17:39",
+                "emotion": "Happy",
+                "track_name": "A Sunday Kind Of Love",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-26 17:39",
+                "emotion": "Favorite",
+                "track_name": "505",
+                "track_artist": "Arctic Monkeys",
+                "uri": "spotify:track:0BxE4FqsDD1Ot4YuBXwAPp",
+                "action": "Saved"
+            },
+            {
+                "date": "2025-11-26 17:38",
+                "emotion": "Happy",
+                "track_name": "505",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-26 17:38",
+                "emotion": "Fear",
+                "track_name": "Unknown",
+                "action": "Analyzed"
+            },
+            {
+                "date": "2025-11-26 17:09",
+                "emotion": "Sad",
+                "track_name": "O Fortuna from Carmina Burana - Vocal"
+            },
+            {
+                "date": "2025-11-26 17:08",
+                "emotion": "Sad",
+                "track_name": "Theivamey"
+            },
+            {
+                "date": "2025-11-26 17:08",
+                "emotion": "Neutral",
+                "track_name": "Play with Fire (feat. Yacht Money)"
+            },
+            {
+                "date": "2025-11-26 17:08",
+                "emotion": "Neutral",
+                "track_name": "Hail to the King"
+            },
+            {
+                "date": "2025-11-26 17:05",
+                "emotion": "Fear",
+                "track_name": "I Feel Excited"
+            },
+            {
+                "date": "2025-11-26 17:05",
+                "emotion": "Neutral",
+                "track_name": "Oras"
+            },
+            {
+                "date": "2025-11-26 17:04",
+                "emotion": "Neutral",
+                "track_name": "Alone Time"
+            },
+            {
+                "date": "2025-11-26 17:04",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 17:04",
+                "emotion": "Fear",
+                "track_name": "Unknown"
+            },
+            {
+                "date": "2025-11-26 15:31",
+                "emotion": "Fear",
+                "track_name": "Hate Me (with Juice WRLD)"
+            },
+            {
+                "date": "2025-11-26 15:23",
+                "emotion": "Fear",
+                "track_name": "Space Song"
+            },
+            {
+                "date": "2025-11-26 15:22",
+                "emotion": "Fear",
+                "track_name": "Mood (feat. iann dior)"
+            },
+            {
+                "date": "2025-11-26 15:21",
+                "emotion": "Sad",
+                "track_name": "Unknown"
+            }
+        ]
+    }
+}
