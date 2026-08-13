@@ -34,8 +34,8 @@ DB_FILE = 'users.json'
 
 # --- SPOTIFY CONFIG ---
 SPOTIFY_CLIENT_ID = 'your_new_client_id'
-SPOTIFY_CLIENT_SECRET = 'your_new_client_secret
-SECRET_KEY = "your-very-secret-key" 
+SPOTIFY_CLIENT_SECRET = 'your_new_client_secret'
+SECRET_KEY = 'your-very-secret-key'
 
 pwd_context = CryptContext(schemes=["pbkdf2_sha256"], deprecated="auto")
 app = Flask(__name__)
