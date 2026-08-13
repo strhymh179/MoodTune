@@ -33,8 +33,8 @@ MOOD_MAPPING = {
 DB_FILE = 'users.json'
 
 # --- SPOTIFY CONFIG ---
-SPOTIFY_CLIENT_ID = '5dd904fbe43843158737c18d7c671c67'
-SPOTIFY_CLIENT_SECRET = 'b21a738c07374487af7d7417b515ce22'
+SPOTIFY_CLIENT_ID = 'your_new_client_id'
+SPOTIFY_CLIENT_SECRET = 'your_new_client_secret
 SECRET_KEY = "your-very-secret-key" 
 
 pwd_context = CryptContext(schemes=["pbkdf2_sha256"], deprecated="auto")
