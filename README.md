@@ -50,7 +50,7 @@ pip install -r requirements.txt
 python app.py
 
 ### 3. Frontend Setup
-```bash
+Bash
 cd frontend
 npm install
 npm start
