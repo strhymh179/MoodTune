@@ -1,6 +1,7 @@
 # MoodTune: Facial Emotion-Based Music Recommender Web Application
 
 MoodTune is a real-time web application developed as a Final Year Project. It uses computer vision and deep learning to detect facial expressions from a live webcam feed and automatically recommends matching music tracks via the Spotify Web API.
+
 <img width="1070" height="496" alt="image" src="https://github.com/user-attachments/assets/f3bc28dc-2b5b-4aee-8e07-fb2254746cc7" />
 
 
